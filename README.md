@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Dart related to the interaction between nullable variables, getters, and the null-aware operator (`??`). The `bug.dart` file contains code that exhibits unexpected behavior, while `bugSolution.dart` provides a corrected version.
